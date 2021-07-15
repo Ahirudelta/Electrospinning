@@ -27,5 +27,10 @@ Information of each folder
 
 Python code
   - Train_model.ipynb
-  - Predict_and_plot.ipynb
+    - The program for training the ANN model and collect the model in the model folder.
   - R2_evaluate.ipynb
+    - The program for generate the R2 of the prediction value compare with the actual value.
+    - And generate the plot of training loss and validation loss with the epochs.
+  - Predict_and_plot.ipynb
+    - The program for simulate the prediction result of each parameter by using the ANN model.
+    - The simulation can generate into both 2D graph and 3D surface.
